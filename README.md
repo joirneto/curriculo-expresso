@@ -1,4 +1,4 @@
-# curriculo-expresso
+# Curriculo-Expresso
 Curriculo expresso com informações básicas
 
 ## Início

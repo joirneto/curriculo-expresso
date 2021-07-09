@@ -1,5 +1,5 @@
 # Curriculo-Expresso
-Curriculo expresso com informações básicas
+Curriculo com informações básicas
 
 ## Início
 

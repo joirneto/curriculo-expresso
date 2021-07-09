@@ -1,23 +1,23 @@
 const data= {
   title: 'Meu currículo',
-  name: 'William Oliveira',
-  profession: 'Software Engineer',
-  description: 'Experiência em desenvolvimento de single page applications com JavaScript e frameworks JavaScript (já trabalhei com Angular e React), module bundlers, package managers, transpilers (como Babel), pre processadores CSS (Sass e Stylus), task managers, arquitetura CSS (como BEM e SMACSS), Git, SEO, acessibilidade e usabilidade.',
+  name: 'Joir Neto',
+  profession: 'Computer Engineer',
+  description: 'Gerente de Relacionamento no Banco do Brasil || DesenvolvedorFull-Stack em formação| Javascript | Node.js | React.js',
   experience: [{
-      company: 'Loggi Tecnologia',
-      office: 'Software Engineer',
-      description: 'Trabalho no squad de desenvolvimento do software de gestão de warehouses da Loggi, o ProXD. Nosso trabalho é automatizar os processos de recebimento, gestão, armazenamento, transferências e expedição de pacotes, cortes, rotas e monitoramento dos pacotes e sacas de entregas para ecommerces.'
+      company: 'Banco do Brasil S/A',
+      office: 'Gerente de Relacionamento',
+      description: 'Gestão e assessoria de cliente PF.'
   },
   {
-      company: 'Casa do Código',
-      office: 'Escritor',
-      description: 'Autor do livro: O universo da programação: Um guia de carreira em desenvolvimento de software'
+      company: 'LESC',
+      office: 'Estagiário',
+      description: 'Integro equipe de teste em projeto de IoT! Realizando testes exploratórios, checagem de bugs e execução do plano de Testes! Utilizamos como ferramentas de trabalho o Trello e o Jira. Expresso foco e disciplina no desenvolvimento do trabalho e entrega dos objetivos!'
   }],
   education: [{
-      institution: 'Vida',
-      description: 'Sobrevivência nas ruas'
+      institution: 'UFC',
+      description: 'Engenharia de Computação'
   }],
-  skills: ['backend', 'frontend', 'infra', 'mobile']
+  skills: ['Javascript', 'Node.js','React.js']
 }
 
 module.exports = data;

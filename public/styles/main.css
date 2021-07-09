@@ -1,0 +1,18 @@
+body {
+  font: 18px "Lucida Grande", Helvetica, Arial, sans-serif;
+  line-height: 2;
+  display: flex;
+  justify-content: center;
+}
+
+main, footer {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.first{
+  flex-basis:60%;
+  border-style: solid;
+  border-radius: 5px;
+  background-color: rgb(238, 238, 238);
+}
